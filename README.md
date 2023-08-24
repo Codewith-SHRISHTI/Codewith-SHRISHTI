@@ -3,20 +3,17 @@
 <h1 align="center">Hi 👋, I'm Shrishti singh</h1>
 <h3 align="center">A passionate front-end developer from India.I have done Bsc-IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-shrishti&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-shrishti" /></p>
-<div>
 
-  
-  <div align="left">
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Codewith-SHRISHTI/Codewith-SHRISHTI/main/git.gif"> </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-shrishti&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-shrishti" /></p>
+
+
 - 🔭 I’m currently working on ****React project****
 
 - 🌱 I’m currently learning **java selenium**
 
 - 📫 How to reach me **shrishti0902@gmail.com**
-  <div align="right"> <img src="https://raw.githubusercontent.com/Codewith-SHRISHTI/Codewith-SHRISHTI/main/git.gif"> </div>
-  
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
