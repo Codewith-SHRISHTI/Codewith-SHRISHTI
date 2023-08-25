@@ -37,8 +37,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-shrishti&theme=radical" alt="codewith-shrishti" />
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=codewith-shrishti&theme=radical&show_icons=true&locale=en" alt="codewith-shrishti"/></p>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-shrishti&theme=radical" alt="codewith-shrishti" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=codewith-shrishti&theme=radical&show_icons=true&locale=en" alt="codewith-shrishti"/></p>
   <br/>
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Codewith-SHRISHTI&theme=radical&show_icons=true&locale=en&layout=compact" alt="codewith-shrishti"/>
 </div>
