@@ -28,10 +28,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Codewith-SHRISHTI/Codewith-SHRISHTI/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-<br/><br/><br/>
+  <br/><br/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -42,8 +40,6 @@
   <br/>
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Codewith-SHRISHTI&theme=radical&show_icons=true&locale=en&layout=compact" alt="codewith-shrishti"/>
 </div>
-
-<br/><br/>
 <hr/>
 
 <h3 align="center">
