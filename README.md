@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=100&duration=3000&pause=300&color=23FF1B&background=000000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello+!;My+name+is+Shrishti++Singh;Full+stack+Software+Developer+And+tester+;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=100&duration=3000&pause=300&color=23FF1B&background=000000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello+!;My+name+is+Shrishti++Singh;Full+stack+Software+Developer;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Shrishti singh</h1>
 <h3 align="center">A passionate front-end developer from India.I have done Bsc-IT</h3>
