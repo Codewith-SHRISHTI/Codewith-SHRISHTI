@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/shrishti-singh-fullstackdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti singh" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/shrishti09/" target="blank"><img align="center" src="https://icons8.com/icon/9L16NypUzu38/leetcode" alt="shrishti singh" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/shrishti09/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
